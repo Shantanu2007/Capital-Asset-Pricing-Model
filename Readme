@@ -15,4 +15,5 @@ B < 1 (Low Market Sensitivity)
 B = 1 (Same as Market)
 B < 0 (Negative Market Sensitivity)
 You can find the source code in this repository.
+To execute this code type Streamlit run followed by file name you have used in cmd of VS code.
 Thanks 😊
