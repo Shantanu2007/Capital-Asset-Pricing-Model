@@ -1,0 +1,18 @@
+This is a very amazing project for finance-related professionals. A Capital Asset pricing model has been developed for these projects. Here, by considering several factors like security return, market return, and Beta value it has been developed
+Finance professionals are very dependent on stats and how the market has worked previously. According to SP500 which tells about the top 500 US companies we have taken some important company share reports like APPLE, AMAZON, TESLA, and many more
+here we have calculated security returns by using the following formula.
+ri = rf + Bi(rm - rf )
+where ri = Expected return on a security.
+rf = Risk-free rate of return.
+B =  Beta between the stock and the market.
+rm = Expected return from the market.
+Here, by considering the behavior of the customer it has been modeled as a Stock with low risk ends with low return and vice-versa.
+Depending upon the value of B(beta) we can also look for investing in any company's stock:- 
+Beta values determine the stock risk based on the fluctuation of its price changes related to the Overall market.
+If B = 0 (No Market Sensitivity)
+B > 1 (High Market Sensitivity)
+B < 1 (Low Market Sensitivity) 
+B = 1 (Same as Market)
+B < 0 (Negative Market Sensitivity)
+You can find the source code in this repository.
+Thanks 😊
